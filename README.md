@@ -1,6 +1,11 @@
 # design-ai-experiments
 
-Figma and Claud Code. Experiments at the intersection of AI tooling and product design workflows.
+Experiments at the intersection of AI tooling and product design workflows.
+
+
+## Orbit App
+
+Early experiment with AI generated UI
 
 ## Figma MCP
 
